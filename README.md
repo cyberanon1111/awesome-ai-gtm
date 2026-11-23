@@ -48,6 +48,7 @@ GitHub is the best free library on the internet. With an AI agent like Claude Co
 
 ## RevOps & Data
 
+- 🔵 [waynehamadi/datacircle](https://github.com/waynehamadi/datacircle): the best GTM APIs, benchmarked: price per 1,000, rate limits and fields of every plan, with an open API and MCP server. **GTM use:** pick the data API before you build on it ([datacircle.dev](https://datacircle.dev)).
 - 🟢 [metabase/metabase](https://github.com/metabase/metabase): easy open-source BI and dashboards. **GTM use:** pipeline and funnel dashboards your team actually opens.
 - 🟣 [twentyhq/twenty](https://github.com/twentyhq/twenty): open-source, AI-ready CRM alternative to Salesforce. **GTM use:** own your CRM and let agents read and write to it directly.
 - 🟣 [PostHog/posthog](https://github.com/PostHog/posthog): product analytics, session replay, flags and experiments. **GTM use:** connect what accounts do in-product to what sales sees.
